@@ -2,6 +2,9 @@
   "name": "powder-web",
   "productName": "PowderWeb",
   "version": "0.8.0",
+  "engines": {
+    "node": "12.13.0"
+  },
   "description": "Modern Bittorrent Client with Web UI and Torrent Streaming Capabilities.",
   "author": "Alexandru Branza <branza.alex@gmail.com>",
   "main": "main.js",
